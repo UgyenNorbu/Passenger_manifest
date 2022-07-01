@@ -1,0 +1,28 @@
+{
+  "name": "passenger_manefest",
+  "version": "1.0.0",
+  "description": "",
+  "source": "./src/main.html",
+  "scripts": {
+    "dev": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UgyenNorbu/Passenger_manifest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UgyenNorbu/Passenger_manifest/issues"
+  },
+  "homepage": "https://github.com/UgyenNorbu/Passenger_manifest#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.2",
+    "parcel": "^2.6.2"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
